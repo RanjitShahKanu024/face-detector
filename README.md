@@ -21,7 +21,7 @@ This is a real-time face detection system built using Python, OpenCV, and dlib.
 3. Press 'q' to exit the video feed.
 
 ## 📽️ Demo
-▶️ [Watch the live demo](https://github.com/RanjitShahKanu024/face_detector/blob/main/demo/demo.mov)
+▶️ [Watch the live demo]https://github.com/RanjitShahKanu024/face-detector/blob/main/demo/demo.mov)
 
 
 ## 🚀 What’s Next?
